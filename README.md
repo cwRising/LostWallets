@@ -66,7 +66,7 @@ https://www.blockchain.com/explorer/addresses/btc/1PfNh5fRcE9JKDmicD2Rh3pexGwce1
 
 | #    | 钱包名称         | 地址             | 猎人 |  | 合作方 | 更新 |
 |:-----|:--------------------|:--------------------|:-------|:-|:--------|:-------|
-| 1 | [12600.30130883.dat](https://github.com/phrutis/LostWallets/blob/main/Others/12600.30130883.csv) | [252 个地址](https://github.com/phrutis/LostWallets/blob/main/Others/12600.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 1 | [12600.30130883.dat]) | [252 个地址](https://github.com/phrutis/LostWallets/blob/main/Others/12600.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 2 | [10000.00586203.dat](https://github.com/phrutis/LostWallets/blob/main/Others/10000.00586203.csv) | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50% | :lock: | :three: | 09.06.2022 |
 | 3 | [7941.06429735.dat](https://github.com/phrutis/LostWallets/blob/main/Others/7941.06429735.csv) | [15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX](https://www.blockchain.com/btc/address/15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 4 | ♻️4000.dat | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50% | :lock: | :two: | 09.06.2022 |
